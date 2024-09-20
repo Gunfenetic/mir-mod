@@ -4,7 +4,7 @@ my first mod, if you say the gun quality is bad, then you got the right version
 
 1: Handgun (handgunfrompaint), Its a 17 shot semi automatic pistol i drawn myself in ms paint, ~might crash your game, problem because of the sound or some shit idk~ bug fixed, for some reason i forgot to put in the sound file and instead of playing no sound it just crashes your game gunshot came from me just saying "pew"
 
-2: Combat Handgun (Tracedgun) A Gun traced from google images into paint, its a 19 shot, witht he sound coming from a glcok 19 police bodycam
+2: Combat Handgun (Tracedgun) A Gun traced from google images into paint, its a 19 shot, witht he sound coming from a glock 19 police bodycam
 
 3: Snub Nose (lazyrevovler) Was originally just meant to be the image, but it didn't worked so its just traced, 6 shots, gun shot game from some random sfx website
 
