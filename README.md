@@ -4,7 +4,7 @@ my first mod, if you say the gun quality is bad, then you got the right version
 
 be warned, the Handgun might crash your game, fixing the problem now
 
-1: Handun (handgunfrompaint), Its a 17 shot semi automatic pistol i drawn myself in ms paint, might crash your game, problem because of the sound or some shit idk
+1: Handgun (handgunfrompaint), Its a 17 shot semi automatic pistol i drawn myself in ms paint, might crash your game, problem because of the sound or some shit idk
 
 2: Combat Handgun (Tracedgun) A Gun traced from google images into paint, its a 19 shot, witht he sound coming from a glcok 19 police bodycam
 
