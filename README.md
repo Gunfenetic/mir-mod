@@ -10,6 +10,6 @@ my first mod, if you say the gun quality is bad, then you got the right version
 
 4: Tactical Shotgun (robloxshotgun) The shotgun gear from roblox, 5 shots, delayed each shots instead of using pump action since the pump sound is immiedietly played with the gunshot sound, gunshot is the roblox shotgun gun sound from the trench gun
 
-4: AT-48 (badak) A AK=47, Also traced, AT-48 Name from Karlson aka dani, High recoil, 30 shots, gunshot is the just the base Madness Interactive reloaded one
+4: AT48 (badak) A AK-47, Also traced, AT48 Name from Karlson aka dani, High recoil, 30 shots, gunshot is the just the base Madness Interactive reloaded one
 
 more guns are soon to be added
