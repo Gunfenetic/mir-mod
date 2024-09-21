@@ -12,4 +12,6 @@ my first mod, if you say the gun quality is bad, then you got the right version
 
 4: AT48 (badak) A AK-47, Also traced, AT48 Name from Karlson aka dani, High recoil, 30 shots, gunshot is the just the base Madness Interactive reloaded one
 
+5: Glock 17 (imageglock) I managed to make it, just the image, 17 shots, sound is just a sfx on youtube. thats it
+
 more guns are soon to be added
